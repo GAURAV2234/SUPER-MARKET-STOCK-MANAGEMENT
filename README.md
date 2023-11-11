@@ -1,4 +1,4 @@
-# SUPER-MARKET-STOCK-MANAGEMENT
+# INVENTORY-MANAGEMENT
 
 
 This repository contains a Python-based stock management system designed to handle various operations related to product, user, purchase, sales, and database management. The system leverages MySQL for database operations and integrates essential modules for its functionality.
